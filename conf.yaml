@@ -1,0 +1,12 @@
+browser: "firefox" 
+
+sessions:
+  session1:
+    tag: "test1" 
+    link: "https://www.overleaf.com/project/672366509c5311ddb4355f7b"  
+    path: "${PWD}"  
+
+  session2:
+    tag: "test2" 
+    link: "https://another-example.com"  
+    path: "${PWD}"  
