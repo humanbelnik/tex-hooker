@@ -1,12 +1,10 @@
 browser: "firefox" 
 
 sessions:
-  session1:
-    tag: "test1" 
+  test:
     link: "https://www.overleaf.com/project/672366509c5311ddb4355f7b"  
-    path: "${PWD}"  
+    path: '\\wsl$\Ubuntu-22.04\home\nikita\tex-hooker\qwe'  
 
-  session2:
-    tag: "test2" 
-    link: "https://another-example.com"  
-    path: "${PWD}"  
+  lab5:
+    link: "https://www.overleaf.com/project/67398cb06300956b8f23adaa"  
+    path: '\\wsl$\Ubuntu-22.04\home\nikita\ics\aa-pipelines'  
